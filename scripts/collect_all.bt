@@ -1,0 +1,8 @@
+tracepoint:syscalls:sys_enter_* 
+/ comm != "bpftrace" /
+{
+    printf("%-20s PID: %-6d COMM: %-16s\n",
+           probe,
+           pid,
+           comm);
+}
