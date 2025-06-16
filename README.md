@@ -41,9 +41,9 @@ tracepoint:syscalls:sys_enter_unlink
 
 Что необходимо сдать:
 
-* Ваш скрипт трассировки (.bt или .py)
+* Ваш скрипт трассировки (`.bt` или `.py`)
 * Пример логов (`sudo bpftrace <name>.bt >> <logname>.log`)
-* Отчёт по шаблону TEMPLATE.md
+* Отчёт по шаблону `REPORT_TEMPLATE.md`
 
 ## Вопросы, на которые нужно ответить в отчете
 
