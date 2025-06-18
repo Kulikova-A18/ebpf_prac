@@ -50,3 +50,5 @@ tracepoint:syscalls:sys_enter_unlink
 1. Чем `tracepoint` отличается от `kprobe`?
 2. Почему `args->filename` доступен не всегда?
 3. Что делает `strftime("%H:%M:%S", nsecs)`?
+
+Отправлять на `zelichenok@comsec.spb.ru`.
