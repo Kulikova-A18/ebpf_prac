@@ -1,0 +1,60 @@
+2025-07-02 20:20:07,117 - INFO - 20:20:07-tracepoint:syscalls:sys_enter_connect PID: 2590   COMM:<VBoxClient> PATH: 
+2025-07-02 20:20:07,117 - INFO - 20:20:07-tracepoint:syscalls:sys_enter_open PID: 2590   COMM:<VBoxClient> PATH: /home/vboxuser/.Xauthority
+2025-07-02 20:20:07,117 - INFO - 20:20:07-tracepoint:syscalls:sys_enter_open PID: 2344   COMM:<Xorg> PATH: /proc/2590/cmdline
+2025-07-02 20:20:07,118 - INFO - 20:20:07-tracepoint:syscalls:sys_enter_open PID: 2706   COMM:<Thunar> PATH: /usr/share/icons/elementary-xfce/mimes/64/text-x-generic.png
+2025-07-02 20:20:08,343 - INFO - 20:20:08-tracepoint:syscalls:sys_enter_connect PID: 2590   COMM:<VBoxClient> PATH: 
+2025-07-02 20:20:08,343 - INFO - 20:20:08-tracepoint:syscalls:sys_enter_open PID: 2590   COMM:<VBoxClient> PATH: /home/vboxuser/.Xauthority
+2025-07-02 20:20:08,343 - INFO - 20:20:08-tracepoint:syscalls:sys_enter_open PID: 2344   COMM:<Xorg> PATH: /proc/2590/cmdline
+2025-07-02 20:20:08,343 - INFO - 20:20:08-tracepoint:syscalls:sys_enter_exec PID: 7490   COMM:<bash> PATH: /usr/bin/ping
+2025-07-02 20:20:08,344 - INFO - 20:20:08-tracepoint:syscalls:sys_enter_open PID: 7490   COMM:<ping> PATH: /etc/ld.so.cache
+2025-07-02 20:20:08,344 - INFO - 20:20:08-tracepoint:syscalls:sys_enter_open PID: 7490   COMM:<ping> PATH: /lib/x86_64-linux-gnu/libcap.so.2
+2025-07-02 20:20:08,344 - INFO - 20:20:08-tracepoint:syscalls:sys_enter_open PID: 7490   COMM:<ping> PATH: /lib/x86_64-linux-gnu/libidn2.so.0
+2025-07-02 20:20:08,344 - INFO - 20:20:08-tracepoint:syscalls:sys_enter_open PID: 7490   COMM:<ping> PATH: /lib/x86_64-linux-gnu/libc.so.6
+2025-07-02 20:20:08,344 - INFO - 20:20:08-tracepoint:syscalls:sys_enter_open PID: 7490   COMM:<ping> PATH: /lib/x86_64-linux-gnu/libunistring.so.2
+2025-07-02 20:20:08,344 - INFO - 20:20:08-tracepoint:syscalls:sys_enter_open PID: 7490   COMM:<ping> PATH: 
+2025-07-02 20:20:08,344 - INFO - 20:20:08-tracepoint:syscalls:sys_enter_open PID: 7490   COMM:<ping> PATH: /usr/lib/x86_64-linux-gnu/gconv/gconv-modules.cache
+2025-07-02 20:20:08,344 - INFO - 20:20:08-tracepoint:syscalls:sys_enter_connect PID: 7490   COMM:<ping> PATH:<8.8.8.8:1025>
+2025-07-02 20:20:10,045 - INFO - 20:20:10-tracepoint:syscalls:sys_enter_connect PID: 2590   COMM:<VBoxClient> PATH: 
+2025-07-02 20:20:10,045 - INFO - 20:20:10-tracepoint:syscalls:sys_enter_open PID: 2590   COMM:<VBoxClient> PATH: /home/vboxuser/.Xauthority
+2025-07-02 20:20:10,045 - INFO - 20:20:10-tracepoint:syscalls:sys_enter_open PID: 2344   COMM:<Xorg> PATH: /proc/2590/cmdline
+2025-07-02 20:20:10,459 - INFO - 20:20:10-tracepoint:syscalls:sys_enter_open PID: 2036   COMM:<VBoxService> PATH: /var/run/utmp
+2025-07-02 20:20:10,460 - INFO - 20:20:10-tracepoint:syscalls:sys_enter_open PID: 538    COMM:<dbus-daemon> PATH: /usr/local/share/dbus-1/system-services
+2025-07-02 20:20:10,460 - INFO - 20:20:10-tracepoint:syscalls:sys_enter_open PID: 538    COMM:<dbus-daemon> PATH: /usr/share/dbus-1/system-services
+2025-07-02 20:20:10,460 - INFO - 20:20:10-tracepoint:syscalls:sys_enter_open PID: 538    COMM:<dbus-daemon> PATH: /lib/dbus-1/system-services
+2025-07-02 20:20:10,460 - INFO - 20:20:10-tracepoint:syscalls:sys_enter_open PID: 538    COMM:<dbus-daemon> PATH: /var/lib/snapd/dbus-1/system-services/
+2025-07-02 20:20:11,088 - INFO - 20:20:11-tracepoint:syscalls:sys_enter_connect PID: 2590   COMM:<VBoxClient> PATH: 
+2025-07-02 20:20:11,088 - INFO - 20:20:11-tracepoint:syscalls:sys_enter_open PID: 2590   COMM:<VBoxClient> PATH: /home/vboxuser/.Xauthority
+2025-07-02 20:20:11,089 - INFO - 20:20:11-tracepoint:syscalls:sys_enter_open PID: 2344   COMM:<Xorg> PATH: /proc/2590/cmdline
+2025-07-02 20:20:12,107 - INFO - 20:20:12-tracepoint:syscalls:sys_enter_connect PID: 2590   COMM:<VBoxClient> PATH: 
+2025-07-02 20:20:12,108 - INFO - 20:20:12-tracepoint:syscalls:sys_enter_open PID: 2590   COMM:<VBoxClient> PATH: /home/vboxuser/.Xauthority
+2025-07-02 20:20:12,108 - INFO - 20:20:12-tracepoint:syscalls:sys_enter_open PID: 2344   COMM:<Xorg> PATH: /proc/2590/cmdline
+2025-07-02 20:20:12,867 - INFO - 20:20:12-tracepoint:syscalls:sys_enter_open PID: 2706   COMM:<Thunar> PATH: /home/vboxuser/ebpf_prac/src/.hidden
+2025-07-02 20:20:13,131 - INFO - 20:20:13-tracepoint:syscalls:sys_enter_connect PID: 2590   COMM:<VBoxClient> PATH: 
+2025-07-02 20:20:13,131 - INFO - 20:20:13-tracepoint:syscalls:sys_enter_open PID: 2590   COMM:<VBoxClient> PATH: /home/vboxuser/.Xauthority
+2025-07-02 20:20:13,131 - INFO - 20:20:13-tracepoint:syscalls:sys_enter_open PID: 2344   COMM:<Xorg> PATH: /proc/2590/cmdline
+2025-07-02 20:20:14,155 - INFO - 20:20:14-tracepoint:syscalls:sys_enter_connect PID: 2590   COMM:<VBoxClient> PATH: 
+2025-07-02 20:20:14,155 - INFO - 20:20:14-tracepoint:syscalls:sys_enter_open PID: 2590   COMM:<VBoxClient> PATH: /home/vboxuser/.Xauthority
+2025-07-02 20:20:14,155 - INFO - 20:20:14-tracepoint:syscalls:sys_enter_open PID: 2344   COMM:<Xorg> PATH: /proc/2590/cmdline
+2025-07-02 20:20:15,177 - INFO - 20:20:15-tracepoint:syscalls:sys_enter_connect PID: 2590   COMM:<VBoxClient> PATH: 
+2025-07-02 20:20:15,177 - INFO - 20:20:15-tracepoint:syscalls:sys_enter_open PID: 2590   COMM:<VBoxClient> PATH: /home/vboxuser/.Xauthority
+2025-07-02 20:20:15,177 - INFO - 20:20:15-tracepoint:syscalls:sys_enter_open PID: 2344   COMM:<Xorg> PATH: /proc/2590/cmdline
+2025-07-02 20:20:15,463 - INFO - 20:20:15-tracepoint:syscalls:sys_enter_open PID: 2036   COMM:<VBoxService> PATH: /var/run/utmp
+2025-07-02 20:20:15,464 - INFO - 20:20:15-tracepoint:syscalls:sys_enter_open PID: 538    COMM:<dbus-daemon> PATH: /usr/local/share/dbus-1/system-services
+2025-07-02 20:20:15,464 - INFO - 20:20:15-tracepoint:syscalls:sys_enter_open PID: 538    COMM:<dbus-daemon> PATH: /usr/share/dbus-1/system-services
+2025-07-02 20:20:15,464 - INFO - 20:20:15-tracepoint:syscalls:sys_enter_open PID: 538    COMM:<dbus-daemon> PATH: /lib/dbus-1/system-services
+2025-07-02 20:20:15,464 - INFO - 20:20:15-tracepoint:syscalls:sys_enter_open PID: 538    COMM:<dbus-daemon> PATH: /var/lib/snapd/dbus-1/system-services/
+2025-07-02 20:20:15,602 - INFO - 20:20:15-tracepoint:syscalls:sys_enter_open PID: 547    COMM:<irqbalance> PATH: /proc/interrupts
+2025-07-02 20:20:15,602 - INFO - 20:20:15-tracepoint:syscalls:sys_enter_open PID: 547    COMM:<irqbalance> PATH: /proc/stat
+2025-07-02 20:20:15,602 - INFO - 20:20:15-tracepoint:syscalls:sys_enter_open PID: 547    COMM:<irqbalance> PATH: /proc/irq/20/smp_affinity
+2025-07-02 20:20:15,602 - INFO - 20:20:15-tracepoint:syscalls:sys_enter_open PID: 547    COMM:<irqbalance> PATH: /proc/irq/0/smp_affinity
+2025-07-02 20:20:15,602 - INFO - 20:20:15-tracepoint:syscalls:sys_enter_open PID: 547    COMM:<irqbalance> PATH: /proc/irq/1/smp_affinity
+2025-07-02 20:20:15,602 - INFO - 20:20:15-tracepoint:syscalls:sys_enter_open PID: 547    COMM:<irqbalance> PATH: /proc/irq/8/smp_affinity
+2025-07-02 20:20:15,602 - INFO - 20:20:15-tracepoint:syscalls:sys_enter_open PID: 547    COMM:<irqbalance> PATH: /proc/irq/12/smp_affinity
+2025-07-02 20:20:15,602 - INFO - 20:20:15-tracepoint:syscalls:sys_enter_open PID: 547    COMM:<irqbalance> PATH: /proc/irq/14/smp_affinity
+2025-07-02 20:20:15,602 - INFO - 20:20:15-tracepoint:syscalls:sys_enter_open PID: 547    COMM:<irqbalance> PATH: /proc/irq/15/smp_affinity
+2025-07-02 20:20:16,332 - INFO - 20:20:16-tracepoint:syscalls:sys_enter_connect PID: 2590   COMM:<VBoxClient> PATH: 
+2025-07-02 20:20:16,333 - INFO - 20:20:16-tracepoint:syscalls:sys_enter_open PID: 2590   COMM:<VBoxClient> PATH: /home/vboxuser/.Xauthority
+2025-07-02 20:20:16,333 - INFO - 20:20:16-tracepoint:syscalls:sys_enter_open PID: 2344   COMM:<Xorg> PATH: /proc/2590/cmdline
+2025-07-02 20:20:17,353 - INFO - 20:20:17-tracepoint:syscalls:sys_enter_connect PID: 2590   COMM:<VBoxClient> PATH: 
+2025-07-02 20:20:17,354 - INFO - 20:20:17-tracepoint:syscalls:sys_enter_open PID: 2590   COMM:<VBoxClient> PATH: /home/vboxuser/.Xauthority
+2025-07-02 20:20:17,354 - INFO - 20:20:17-tracepoint:syscalls:sys_enter_open PID: 2344   COMM:<Xorg> PATH: /proc/2590/cmdline
